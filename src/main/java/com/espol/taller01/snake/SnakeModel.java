@@ -46,6 +46,7 @@ public class SnakeModel extends GameModel {
 	 * This means that they should only be used in
 	 * conjunction with the get/setGameboardState()
 	 * methods.
+	 * 
 	 */
 
 	/** Graphical representation of a coin. */
