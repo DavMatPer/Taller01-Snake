@@ -8,5 +8,4 @@ Complete esta tabla al final del taller.
 | Integrante 1 | Daniel Ansules | dan21az |Integrante 1: cambiar botón y cabeza de snake
   |
 | Integrante 2 | Jandry Pichu | jandalay | Cambio de botón y colector de Gold |
-| Integrante 3 |  |  |  |
 | Integrante 4 | Elizabeth Solis | elizsoli |  Integrante 4: cambiar botón y cabeza de snake|
